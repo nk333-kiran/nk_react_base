@@ -1,0 +1,21 @@
+#root{ max-width:1200px; margin:0 auto }
+
+.hero{ display:flex; align-items:center; justify-content:space-between }
+.hero .left{ text-align:left }
+.hero h2{ color:white; margin:0; font-size:28px }
+.hero .subtitle{ color:rgba(255,255,255,0.85); margin-top:6px }
+
+.certificate{
+  position:absolute; right:28px; top:24px; background:linear-gradient(135deg,#6c7cff,#61dafb);
+  color:white; padding:10px 14px; border-radius:10px; font-weight:700; box-shadow:0 12px 30px rgba(44,50,90,0.25)
+}
+
+.content-grid{ display:grid; grid-template-columns: 1fr; gap:18px }
+
+.demo{ padding:18px }
+
+.small-muted{ color:var(--muted); font-size:13px }
+
+@media(min-width:900px){
+  .content-grid{ grid-template-columns: 1fr }
+}
