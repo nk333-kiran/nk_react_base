@@ -1,15 +1,15 @@
-import UseStateDemo from "../labs/Day1/UseStateDemo";
-import UseEffectDemo from "../labs/Day1/UseEffectDemo";
-import UseRefDemo from "../labs/Day1/UseRefDemo";
-import UseIdDemo from "../labs/Day1/UseIdDemo";
-import UseMemoDemo from "../labs/Day2/UseMemoDemo";
-import UseCallbackDemo from "../labs/Day2/UseCallbackDemo";
-import UseContextDemo from "../labs/Day2/UseContextDemo";
-import UseReducerDemo from "../labs/Day2/UseReducerDemo";
-import UseToggleDemo from "../labs/Day3/UseToggleDemo";
-import UseInputDemo from "../labs/Day3/UseInputDemo";
-import UseDebounceDemo from "../labs/Day3/UseDebounceDemo";
-import UsePreviousDemo from "../labs/Day3/UsePreviousDemo";
+import UseStateDemo from "../labs/UseStateDemo";
+import UseEffectDemo from "../labs/UseEffectDemo";
+import UseRefDemo from "../labs/UseRefDemo";
+import UseIdDemo from "../labs/UseIdDemo";
+import UseMemoDemo from "../labs/UseMemoDemo";
+import UseCallbackDemo from "../labs/UseCallbackDemo";
+import UseContextDemo from "../labs/UseContextDemo";
+import UseReducerDemo from "../labs/UseReducerDemo";
+import UseToggleDemo from "../labs/UseToggleDemo";
+import UseInputDemo from "../labs/UseInputDemo";
+import UseDebounceDemo from "../labs/UseDebounceDemo";
+import UsePreviousDemo from "../labs/UsePreviousDemo";
 
 const map = {
   useState: <UseStateDemo />,
